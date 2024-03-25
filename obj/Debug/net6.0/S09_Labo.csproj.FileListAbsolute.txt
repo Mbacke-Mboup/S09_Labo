@@ -1,0 +1,208 @@
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.csproj.AssemblyReference.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.AssemblyInfoInputs.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.AssemblyInfo.cs
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.csproj.CoreCompileInputs.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.MvcApplicationPartsAssemblyInfo.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.RazorAssemblyInfo.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.RazorAssemblyInfo.cs
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\appsettings.Development.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\appsettings.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\S09_Labo.staticwebassets.runtime.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\S09_Labo.exe
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\S09_Labo.deps.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\S09_Labo.runtimeconfig.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\S09_Labo.pdb
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Humanizer.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets\msbuild.S09_Labo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets\msbuild.build.S09_Labo.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S09_Labo.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S09_Labo.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets.build.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\staticwebassets.development.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\scopedcss\bundle\S09_Labo.styles.css
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\scopedcss\projectbundle\S09_Labo.bundle.scp.css
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.csproj.CopyComplete
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\refint\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.pdb
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\S09_Labo.genruntimeconfig.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\4204D5_labo10\obj\Debug\net6.0\ref\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\appsettings.Development.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\appsettings.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\S09_Labo.staticwebassets.runtime.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\S09_Labo.exe
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\S09_Labo.deps.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\S09_Labo.runtimeconfig.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\S09_Labo.pdb
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Humanizer.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.csproj.AssemblyReference.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.AssemblyInfoInputs.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.AssemblyInfo.cs
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.csproj.CoreCompileInputs.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.MvcApplicationPartsAssemblyInfo.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.RazorAssemblyInfo.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.RazorAssemblyInfo.cs
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.S09_Labo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.build.S09_Labo.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S09_Labo.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S09_Labo.props
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\scopedcss\bundle\S09_Labo.styles.css
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\scopedcss\projectbundle\S09_Labo.bundle.scp.css
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.csproj.CopyComplete
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\refint\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.pdb
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\S09_Labo.genruntimeconfig.cache
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\obj\Debug\net6.0\ref\S09_Labo.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Castle.Core.dll
+E:\Cegep\4D5\H24\R17 Evolve\OLD - Copie\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\appsettings.json
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\S09_Labo.staticwebassets.runtime.json
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\S09_Labo.exe
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\S09_Labo.deps.json
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\S09_Labo.runtimeconfig.json
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\S09_Labo.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\S09_Labo.pdb
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2274252\Downloads\S09_Labo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.csproj.AssemblyReference.cache
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.AssemblyInfoInputs.cache
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.AssemblyInfo.cs
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.csproj.CoreCompileInputs.cache
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.RazorAssemblyInfo.cache
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.RazorAssemblyInfo.cs
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.S09_Labo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.build.S09_Labo.props
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S09_Labo.props
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S09_Labo.props
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\scopedcss\bundle\S09_Labo.styles.css
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\scopedcss\projectbundle\S09_Labo.bundle.scp.css
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.csproj.CopyComplete
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.dll
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\refint\S09_Labo.dll
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.pdb
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\S09_Labo.genruntimeconfig.cache
+C:\Users\2274252\Downloads\S09_Labo\obj\Debug\net6.0\ref\S09_Labo.dll
