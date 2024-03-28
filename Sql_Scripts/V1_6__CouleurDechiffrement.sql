@@ -34,15 +34,16 @@
 		-- Est-ce que c'est le bon mot de passe ?
 		IF HASHBYTES('SHA2_256', CONCAT(@MotDePasse, @Sel)) = @MdpHache
 		BEGIN
-			-- ?
+			open symmetric key MaSuperCle
+			decryption by certificate MonCertificat
 			
 			-- Select qui imite la table Utilisateurs.Couleur et déchiffre la couleur préférée
 			SELECT 
-			-- ?
+			convert(char(30), decryptbykey(CouleurPrefere))
 			AS Couleur
 			FROM Utilisateurs.Utilisateur WHERE Pseudo = @Pseudo;
 			
-			-- ?
+			close symmetric key MaSuperCle
 		END
 		ELSE
 		BEGIN

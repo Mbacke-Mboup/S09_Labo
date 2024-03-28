@@ -26,7 +26,7 @@ namespace S09_Labo.Controllers
             return View();
         }
 
-        /*[HttpPost]
+        [HttpPost]
         public async Task<IActionResult> Inscription(InscriptionViewModel ivm)
         {
             // Le pseudo est déjà pris ?
@@ -56,14 +56,14 @@ namespace S09_Labo.Controllers
                 return View(ivm);
             }
             return RedirectToAction("Connexion", "Utilisateurs");
-        }*/
+        }
 
         public IActionResult Connexion()
         {
             return View();
         }
 
-        /*[HttpPost]
+        [HttpPost]
         public async Task<IActionResult> Connexion(ConnexionViewModel cvm)
         {
             // Procédure stockée qui compare le mot de passe fourni à celui dans la BD
@@ -95,7 +95,7 @@ namespace S09_Labo.Controllers
             await HttpContext.SignInAsync(principal);
 
             return RedirectToAction("Index", "Musique");
-        }*/
+        }
 
         [HttpGet]
         public async Task<IActionResult> Deconnexion()
@@ -105,8 +105,9 @@ namespace S09_Labo.Controllers
             return RedirectToAction("Index", "Musique");
         }
 
-        /*
+
         // JUSTE SI AUTHENTIFIÉ SVP
+        [Authorize]
         public async Task<IActionResult> Profil()
         {
             // Manière habituelle de récupérer un utilisateur
@@ -118,11 +119,6 @@ namespace S09_Labo.Controllers
                 return RedirectToAction("Connexion", "Utilisateurs");
             }
 
-            return View(utilisateur); // Remplacer cette ligne une fois à la version 1.5
-        }*/
-
-            // FIN alternative à l'action Profil() pour la migration 1.5
-            /*
             // Récupérer les chanteurs favoris de l'utilisateur pour les afficher dans le profil
             List<ChanteurFavori> favoris = await _context.ChanteurFavoris.ToListAsync();
             List<Chanteur> chanteurs = await _context.Chanteurs
@@ -133,49 +129,53 @@ namespace S09_Labo.Controllers
                 Utilisateur = utilisateur,
                 ChanteursFavoris = chanteurs
             });
-            */
 
-        /*[HttpPost]
-        [Authorize]
-        public async Task<IActionResult> Couleur(string motDePasse)
+        }
+
+       
+
+
+    [HttpPost]
+    [Authorize]
+    public async Task<IActionResult> Couleur(string motDePasse)
+    {
+        // Méthode habituelle pour récupérer l'utilisateur qui fait la requête
+        IIdentity? identite = HttpContext.User.Identity;
+        string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
+        Utilisateur? utilisateur = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
+        if (utilisateur == null) // Utilisateur supprimé entre-temps ... ?
         {
-            // Méthode habituelle pour récupérer l'utilisateur qui fait la requête
-            IIdentity? identite = HttpContext.User.Identity;
-            string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
-            Utilisateur? utilisateur = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
-            if (utilisateur == null) // Utilisateur supprimé entre-temps ... ?
-            {
-                return RedirectToAction("Connexion", "Utilisateurs");
-            }
+            return RedirectToAction("Connexion", "Utilisateurs");
+        }
 
-            // Exécuter la procédure stockée pour récupérer la couleur déchiffrée
-            string query = "EXEC Utilisateurs.USP_Couleur @Pseudo, @MotDePasse";
-            List<SqlParameter> parameters = new List<SqlParameter>
-            {
-                new SqlParameter{ParameterName = "@Pseudo", Value = utilisateur.Pseudo},
-                new SqlParameter{ParameterName = "@MotDePasse", Value = motDePasse}
-            };
-            Couleur? couleur = (await _context.Couleurs.FromSqlRaw(query, parameters.ToArray()).ToListAsync()).FirstOrDefault();
-            if(couleur != null)
-            {
-                // On passe la couleur par le ViewData (ou le ViewBag)
-                ViewData["couleur"] = couleur.Couleur1;
-            }
+        // Exécuter la procédure stockée pour récupérer la couleur déchiffrée
+        string query = "EXEC Utilisateurs.USP_Couleur @Pseudo, @MotDePasse";
+        List<SqlParameter> parameters = new List<SqlParameter>
+        {
+            new SqlParameter{ParameterName = "@Pseudo", Value = utilisateur.Pseudo},
+            new SqlParameter{ParameterName = "@MotDePasse", Value = motDePasse}
+        };
+        Couleur? couleur = (await _context.Couleurs.FromSqlRaw(query, parameters.ToArray()).ToListAsync()).FirstOrDefault();
+        if(couleur != null)
+        {
+            // On passe la couleur par le ViewData (ou le ViewBag)
+            ViewData["couleur"] = couleur.Couleur1;
+        }
 
-            // Récupérer les chanteurs favoris. Un peu répétitif, ça aurait pu être dans une fonction vu
-            // que c'est utilisé 2 fois.
-            List<ChanteurFavori> favoris = await _context.ChanteurFavoris.ToListAsync();
-            List<Chanteur> chanteurs = await _context.Chanteurs
-                .Where(x => x.ChanteurFavoris
-                .Any(y => y.UtilisateurId == utilisateur.UtilisateurId)).ToListAsync();
+        // Récupérer les chanteurs favoris. Un peu répétitif, ça aurait pu être dans une fonction vu
+        // que c'est utilisé 2 fois.
+        List<ChanteurFavori> favoris = await _context.ChanteurFavoris.ToListAsync();
+        List<Chanteur> chanteurs = await _context.Chanteurs
+            .Where(x => x.ChanteurFavoris
+            .Any(y => y.UtilisateurId == utilisateur.UtilisateurId)).ToListAsync();
 
-            // On retourne la vue profil (car c'est de là que l'utilisateur arrivait), sauf que
-            // la couleur sera potentiellement affichée cette fois-ci.
-            return View("Profil", new UtilisateurEtFavorisViewModel()
-            {
-                Utilisateur = utilisateur,
-                ChanteursFavoris = chanteurs
-            });
-        }*/
+        // On retourne la vue profil (car c'est de là que l'utilisateur arrivait), sauf que
+        // la couleur sera potentiellement affichée cette fois-ci.
+        return View("Profil", new UtilisateurEtFavorisViewModel()
+        {
+            Utilisateur = utilisateur,
+            ChanteursFavoris = chanteurs
+        });
+    }
     }
 }

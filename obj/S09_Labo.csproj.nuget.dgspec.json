@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2274252\\Downloads\\S09_Labo\\S09_Labo.csproj": {}
+    "C:\\Users\\2274252\\Desktop\\S09_Labo\\S09_Labo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2274252\\Downloads\\S09_Labo\\S09_Labo.csproj": {
+    "C:\\Users\\2274252\\Desktop\\S09_Labo\\S09_Labo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2274252\\Downloads\\S09_Labo\\S09_Labo.csproj",
+        "projectUniqueName": "C:\\Users\\2274252\\Desktop\\S09_Labo\\S09_Labo.csproj",
         "projectName": "S09_Labo",
-        "projectPath": "C:\\Users\\2274252\\Downloads\\S09_Labo\\S09_Labo.csproj",
+        "projectPath": "C:\\Users\\2274252\\Desktop\\S09_Labo\\S09_Labo.csproj",
         "packagesPath": "C:\\Users\\2274252\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2274252\\Downloads\\S09_Labo\\obj\\",
+        "outputPath": "C:\\Users\\2274252\\Desktop\\S09_Labo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2274252\\AppData\\Roaming\\NuGet\\NuGet.Config",

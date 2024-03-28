@@ -19,10 +19,10 @@ namespace S09_Labo.Controllers
             _context = context;
         }
 
-        public /*async Task<*/IActionResult/*>*/ Index()
+        public async Task<IActionResult> Index()
         {
             // Manière habituelle de récupérer un utilisateur (Migration 1.4)
-            /*ViewData["utilisateur"] = "visiteur";
+            ViewData["utilisateur"] = "visiteur";
             IIdentity? identite = HttpContext.User.Identity;
             if (identite != null && identite.IsAuthenticated)
             {
@@ -33,7 +33,7 @@ namespace S09_Labo.Controllers
                     // Pour dire "Bonjour X" sur l'index
                     ViewData["utilisateur"] = utilisateur.Pseudo;
                 }
-            }*/
+            }
             return View();
         }
 
@@ -83,18 +83,18 @@ namespace S09_Labo.Controllers
         }
 
         [HttpPost]
-        //[Authorize]
-        public /*async Task<*/IActionResult/*>*/ AjouterFavori(int chanteurId)
+        [Authorize]
+        public async Task<IActionResult> AjouterFavori(int chanteurId)
         {
             // Manière standard de récupérer l'utilisateur
-            /*IIdentity? identite = HttpContext.User.Identity;
+            IIdentity? identite = HttpContext.User.Identity;
             string pseudo = HttpContext.User.FindFirstValue(ClaimTypes.Name);
             Utilisateur? utilisateur = await _context.Utilisateurs.FirstOrDefaultAsync(x => x.Pseudo == pseudo);
             if (utilisateur != null)
             {
                 // L'id du chanteur fourni existe-t-il ?
                 Chanteur? chanteur = await _context.Chanteurs.FirstOrDefaultAsync(x => x.ChanteurId == chanteurId);
-                if(chanteur != null)
+                if (chanteur != null)
                 {
                     // Le chanteur est-il déjà dans les favoris de l'utilisateur ?
                     bool dejaFavori = await _context.ChanteurFavoris
@@ -112,9 +112,9 @@ namespace S09_Labo.Controllers
                         // On l'ajoute à la BD
                         _context.ChanteurFavoris.Add(favori);
                         await _context.SaveChangesAsync();
-                    }                 
+                    }
                 }
-            }*/
+            }
             // On retourne à la page où on était
             return RedirectToAction("Chanteurs", "Musique");
         }
